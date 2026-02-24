@@ -1,0 +1,241 @@
+available: true
+id: 1
+mainset:
+- names:
+  - name: Redding
+    probability: 3
+  - name: Shasta Lake City
+    probability: 3
+  - name: Anderson
+    probability: 3
+  - name: Burney
+    probability: 3
+  - name: Castella
+    probability: 3
+  - name: Cottonwood
+    probability: 3
+  - name: Fall River Mills
+    probability: 3
+  - name: French Gulch
+    probability: 3
+  - name: Keswick
+    probability: 3
+  - name: Lakehead
+    probability: 3
+  - name: Millville
+    probability: 3
+  - name: Old Station
+    probability: 3
+  - name: Palo Cedro
+    probability: 3
+  - name: Shasta
+    probability: 3
+  - name: Platina
+    probability: 3
+  - name: Shingletown
+    probability: 3
+  - name: Viola
+    probability: 3
+  - name: Corning
+    probability: 3
+  - name: Red Bluff
+    probability: 3
+  - name: Mineral
+    probability: 3
+  - name: Tehama
+    probability: 3
+  - name: Gerber
+    probability: 3
+  - name: Paynes Creek
+    probability: 3
+  - name: Vina
+    probability: 3
+  - name: Manton
+    probability: 3
+  - name: Whitmore
+    probability: 3
+  - name: Oak Run
+    probability: 3
+  - name: Montgomery Creek
+    probability: 3
+  - name: Bella Vista
+    probability: 3
+  - name: Rancho Tehama
+    probability: 3
+  - name: Los Molinos
+    probability: 3
+  - name: Chico
+    probability: 3
+  - name: Oroville
+    probability: 3
+  - name: Biggs
+    probability: 3
+  - name: Gridley
+    probability: 3
+  - name: Paradise
+    probability: 3
+  - name: Durham
+    probability: 3
+  - name: Magalia
+    probability: 3
+  - name: Berry Creek
+    probability: 3
+  - name: Concow
+    probability: 3
+  - name: Butte Meadows
+    probability: 3
+  - name: Stirling City
+    probability: 3
+  - name: Thermalito
+    probability: 3
+  - name: Palermo
+    probability: 3
+  - name: Orland
+    probability: 3
+  - name: Willows
+    probability: 3
+  - name: Artois
+    probability: 3
+  - name: Hamilton City
+    probability: 3
+  - name: Elk Creek
+    probability: 3
+  - name: Burnt Ranch
+    probability: 3
+  - name: Coffee Creek
+    probability: 3
+  - name: Douglas City
+    probability: 3
+  - name: Hayfork
+    probability: 3
+  - name: Lewiston
+    probability: 3
+  - name: Trinity Center
+    probability: 3
+  - name: Weaverville
+    probability: 3
+  - name: Salyer
+    probability: 3
+  - name: Big Bar
+    probability: 3
+  - name: Junction City
+    probability: 3
+  - name: Peanut
+    probability: 3
+  - name: Forest Glen
+    probability: 3
+  - name: Dorris
+    probability: 3
+  - name: Dunsmuir
+    probability: 3
+  - name: Etna
+    probability: 3
+  - name: Fort Jones
+    probability: 3
+  - name: Montague
+    probability: 3
+  - name: Mount Shasta City
+    probability: 3
+  - name: Tulelake
+    probability: 3
+  - name: Weed
+    probability: 3
+  - name: Yreka
+    probability: 3
+  - name: Happy Camp
+    probability: 3
+  - name: Hornbrook
+    probability: 3
+  - name: Callahan
+    probability: 3
+  - name: McCloud
+    probability: 3
+  - name: Somes Bar
+    probability: 3
+  - name: Seiad Valley
+    probability: 3
+  - name: Hilt
+    probability: 3
+  - name: Forks of Salmon
+    probability: 3
+  - name: Alturas
+    probability: 3
+  - name: Cedarville
+    probability: 3
+  - name: Adin
+    probability: 3
+  - name: Likely
+    probability: 3
+  - name: Lookout
+    probability: 3
+  - name: Canby
+    probability: 3
+  - name: Daphnedale Park
+    probability: 3
+  - name: Susanville
+    probability: 3
+  - name: Bieber
+    probability: 3
+  - name: Nubieber
+    probability: 3
+  - name: Westwood
+    probability: 3
+  - name: Madeline
+    probability: 3
+  - name: Janesville
+    probability: 3
+  - name: Herlong
+    probability: 3
+  - name: Portola
+    probability: 3
+  - name: Chester
+    probability: 3
+  - name: Canyondam
+    probability: 3
+  - name: Quincy
+    probability: 3
+  - name: Greenville
+    probability: 3
+  - name: Graeagle
+    probability: 3
+  - name: Beckwourth
+    probability: 3
+  - name: Arcata
+    probability: 3
+  - name: Blue Lake
+    probability: 3
+  - name: Eureka
+    probability: 3
+  - name: Ferndale
+    probability: 3
+  - name: Fortuna
+    probability: 3
+  - name: Rio Dell
+    probability: 3
+  - name: Trinidad
+    probability: 3
+  - name: Alderpoint
+    probability: 3
+  - name: Hoopa
+    probability: 3
+  - name: McKinleyville
+    probability: 3
+  - name: Redway
+    probability: 3
+  - name: Willow Creek
+    probability: 3
+  - name: Kneeland
+    probability: 3
+  - name: Honeydew
+    probability: 3
+  - name: Petrolia
+    probability: 3
+  - name: Crescent City
+    probability: 3
+  - name: Gasquet
+    probability: 3
+  - name: Klamath
+    probability: 3
+name: Northern California (real)
+source: https://opendata.cbs.nl/#/CBS/nl/dataset/84734NED/table?dl=40CC6
+subsets: []

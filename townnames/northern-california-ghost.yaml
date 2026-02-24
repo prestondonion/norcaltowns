@@ -1,0 +1,168 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: Clio
+    probability: 1
+  - name: Caribou
+    probability: 1
+  - name: Spring Garden
+    probability: 1
+  - name: Twain
+    probability: 1
+  - name: Ravendale
+    probability: 1
+  - name: Termo
+    probability: 1
+  - name: Bestville
+    probability: 1
+  - name: Gullion's Bar
+    probability: 1
+  - name: Helena
+    probability: 1
+  - name: Canon City
+    probability: 1
+  - name: Dedrick
+    probability: 1
+  - name: Deadwood
+    probability: 1
+  - name: Denny
+    probability: 1
+  - name: Zenia
+    probability: 1
+  - name: Flournoy
+    probability: 1
+  - name: Butte City
+    probability: 1
+  - name: Chrome
+    probability: 1
+  - name: Fruto
+    probability: 1
+  - name: Bidwell's Bar
+    probability: 1
+  - name: Butte Creek
+    probability: 1
+  - name: Coutolenc
+    probability: 1
+  - name: Diamondville
+    probability: 1
+  - name: Ingot
+    probability: 1
+  - name: Gas Point
+    probability: 1
+  - name: Igo
+    probability: 1
+  - name: Ono
+    probability: 1
+  - name: Kennett
+    probability: 1
+name: Northern California (ghost)
+source: null
+subsets:
+- name: fictionalbuilder
+  parts:
+  - names:
+    - name: Oak
+      probability: 1
+    - name: River
+      probability: 1
+    - name: Miners
+      probability: 1
+    - name: Tule
+      probability: 1
+    - name: Grass
+      probability: 1
+    - name: Red
+      probability: 1
+    - name: Gold
+      probability: 1
+    - name: Golden
+      probability: 1
+    - name: Silver
+      probability: 1
+    - name: Prospect
+      probability: 1
+    - name: Jones
+      probability: 1
+    - name: Quartz
+      probability: 1
+  - names:
+    - name: land
+      probability: 1
+    - name: dale
+      probability: 1
+    - name: point
+      probability: 1
+    - name: ' Mill'
+      probability: 1
+    - name: ' Hill'
+      probability: 1
+    - name: ' Valley'
+      probability: 1
+    - name: ville
+      probability: 1
+- name: Spanish (fem)
+  parts:
+  - names:
+    - name: Las
+      probability: 1
+  - names:
+    - name: ' Plumas'
+      probability: 1
+    - name: ' Puertas'
+      probability: 1
+    - name: ' Crestas'
+      probability: 1
+    - name: ' Sombras'
+      probability: 1
+- name: Spanish (masc)
+  parts:
+  - names:
+    - name: Los
+      probability: 1
+  - names:
+    - name: ' Rios'
+      probability: 1
+    - name: ' Picos'
+      probability: 1
+    - name: ' Bosques'
+      probability: 1
+    - name: ' Robles'
+      probability: 1
+- name: random
+  parts:
+  - names:
+    - name: Manzanita
+      probability: 1
+    - name: Cloverdale
+      probability: 1
+    - name: Lakehead
+      probability: 1
+    - name: Lakeshore
+      probability: 1
+    - name: Pollard Flat
+      probability: 1
+- name: Lassen Theme
+  parts:
+  - names:
+    - name: Manzanita
+      probability: 1
+    - name: Loomis
+      probability: 1
+    - name: Conard
+      probability: 1
+    - name: Emerald
+      probability: 1
+    - name: Bumpass
+      probability: 1
+    - name: Summit
+      probability: 1
+    - name: Dillard
+      probability: 1
+  - names:
+    - name: ' Flat'
+      probability: 1
+    - name: ' Lake'
+      probability: 1
+    - name: ' Plain'
+      probability: 1
